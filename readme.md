@@ -2,9 +2,13 @@
 
 Módulos:
 
-numpy
-pandas
-scipy.stats
-matplotlib.pyplot
-sklearn
+- numpy
+
+- pandas
+
+- scipy.stats
+
+- matplotlib.pyplot
+
+- sklearn
 
